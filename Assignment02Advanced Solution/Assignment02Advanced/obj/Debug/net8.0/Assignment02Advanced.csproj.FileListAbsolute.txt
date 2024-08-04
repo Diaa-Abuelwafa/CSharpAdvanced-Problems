@@ -1,0 +1,14 @@
+D:\Technology\Backend\4-C# Advanced\Assignments Route Solutions\Assignment02Advanced Solution\Assignment02Advanced\bin\Debug\net8.0\Assignment02Advanced.exe
+D:\Technology\Backend\4-C# Advanced\Assignments Route Solutions\Assignment02Advanced Solution\Assignment02Advanced\bin\Debug\net8.0\Assignment02Advanced.deps.json
+D:\Technology\Backend\4-C# Advanced\Assignments Route Solutions\Assignment02Advanced Solution\Assignment02Advanced\bin\Debug\net8.0\Assignment02Advanced.runtimeconfig.json
+D:\Technology\Backend\4-C# Advanced\Assignments Route Solutions\Assignment02Advanced Solution\Assignment02Advanced\bin\Debug\net8.0\Assignment02Advanced.dll
+D:\Technology\Backend\4-C# Advanced\Assignments Route Solutions\Assignment02Advanced Solution\Assignment02Advanced\bin\Debug\net8.0\Assignment02Advanced.pdb
+D:\Technology\Backend\4-C# Advanced\Assignments Route Solutions\Assignment02Advanced Solution\Assignment02Advanced\obj\Debug\net8.0\Assignment02Advanced.GeneratedMSBuildEditorConfig.editorconfig
+D:\Technology\Backend\4-C# Advanced\Assignments Route Solutions\Assignment02Advanced Solution\Assignment02Advanced\obj\Debug\net8.0\Assignment02Advanced.AssemblyInfoInputs.cache
+D:\Technology\Backend\4-C# Advanced\Assignments Route Solutions\Assignment02Advanced Solution\Assignment02Advanced\obj\Debug\net8.0\Assignment02Advanced.AssemblyInfo.cs
+D:\Technology\Backend\4-C# Advanced\Assignments Route Solutions\Assignment02Advanced Solution\Assignment02Advanced\obj\Debug\net8.0\Assignment02Advanced.csproj.CoreCompileInputs.cache
+D:\Technology\Backend\4-C# Advanced\Assignments Route Solutions\Assignment02Advanced Solution\Assignment02Advanced\obj\Debug\net8.0\Assignment02Advanced.dll
+D:\Technology\Backend\4-C# Advanced\Assignments Route Solutions\Assignment02Advanced Solution\Assignment02Advanced\obj\Debug\net8.0\refint\Assignment02Advanced.dll
+D:\Technology\Backend\4-C# Advanced\Assignments Route Solutions\Assignment02Advanced Solution\Assignment02Advanced\obj\Debug\net8.0\Assignment02Advanced.pdb
+D:\Technology\Backend\4-C# Advanced\Assignments Route Solutions\Assignment02Advanced Solution\Assignment02Advanced\obj\Debug\net8.0\Assignment02Advanced.genruntimeconfig.cache
+D:\Technology\Backend\4-C# Advanced\Assignments Route Solutions\Assignment02Advanced Solution\Assignment02Advanced\obj\Debug\net8.0\ref\Assignment02Advanced.dll
