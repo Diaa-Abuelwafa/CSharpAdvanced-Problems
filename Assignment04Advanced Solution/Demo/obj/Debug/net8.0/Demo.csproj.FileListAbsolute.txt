@@ -1,0 +1,14 @@
+D:\Technology\Backend\4-C# Advanced\Assignments Route Solutions\Assignment04Advanced Solution\Demo\bin\Debug\net8.0\Demo.exe
+D:\Technology\Backend\4-C# Advanced\Assignments Route Solutions\Assignment04Advanced Solution\Demo\bin\Debug\net8.0\Demo.deps.json
+D:\Technology\Backend\4-C# Advanced\Assignments Route Solutions\Assignment04Advanced Solution\Demo\bin\Debug\net8.0\Demo.runtimeconfig.json
+D:\Technology\Backend\4-C# Advanced\Assignments Route Solutions\Assignment04Advanced Solution\Demo\bin\Debug\net8.0\Demo.dll
+D:\Technology\Backend\4-C# Advanced\Assignments Route Solutions\Assignment04Advanced Solution\Demo\bin\Debug\net8.0\Demo.pdb
+D:\Technology\Backend\4-C# Advanced\Assignments Route Solutions\Assignment04Advanced Solution\Demo\obj\Debug\net8.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Technology\Backend\4-C# Advanced\Assignments Route Solutions\Assignment04Advanced Solution\Demo\obj\Debug\net8.0\Demo.AssemblyInfoInputs.cache
+D:\Technology\Backend\4-C# Advanced\Assignments Route Solutions\Assignment04Advanced Solution\Demo\obj\Debug\net8.0\Demo.AssemblyInfo.cs
+D:\Technology\Backend\4-C# Advanced\Assignments Route Solutions\Assignment04Advanced Solution\Demo\obj\Debug\net8.0\Demo.csproj.CoreCompileInputs.cache
+D:\Technology\Backend\4-C# Advanced\Assignments Route Solutions\Assignment04Advanced Solution\Demo\obj\Debug\net8.0\Demo.dll
+D:\Technology\Backend\4-C# Advanced\Assignments Route Solutions\Assignment04Advanced Solution\Demo\obj\Debug\net8.0\refint\Demo.dll
+D:\Technology\Backend\4-C# Advanced\Assignments Route Solutions\Assignment04Advanced Solution\Demo\obj\Debug\net8.0\Demo.pdb
+D:\Technology\Backend\4-C# Advanced\Assignments Route Solutions\Assignment04Advanced Solution\Demo\obj\Debug\net8.0\Demo.genruntimeconfig.cache
+D:\Technology\Backend\4-C# Advanced\Assignments Route Solutions\Assignment04Advanced Solution\Demo\obj\Debug\net8.0\ref\Demo.dll

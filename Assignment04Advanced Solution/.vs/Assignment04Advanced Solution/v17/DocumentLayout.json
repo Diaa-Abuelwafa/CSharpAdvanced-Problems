@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Technology\\Backend\\4-C# Advanced\\Assignments Route Solutions\\Assignment04Advanced Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF47A3C-1ABA-47BF-8E1C-FE2C6A5B3419}|Demo\\Demo.csproj|d:\\technology\\backend\\4-c# advanced\\assignments route solutions\\assignment04advanced solution\\demo\\ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF47A3C-1ABA-47BF-8E1C-FE2C6A5B3419}|Demo\\Demo.csproj|solutionrelative:demo\\ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF47A3C-1ABA-47BF-8E1C-FE2C6A5B3419}|Demo\\Demo.csproj|d:\\technology\\backend\\4-c# advanced\\assignments route solutions\\assignment04advanced solution\\demo\\ex02\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF47A3C-1ABA-47BF-8E1C-FE2C6A5B3419}|Demo\\Demo.csproj|solutionrelative:demo\\ex02\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF47A3C-1ABA-47BF-8E1C-FE2C6A5B3419}|Demo\\Demo.csproj|d:\\technology\\backend\\4-c# advanced\\assignments route solutions\\assignment04advanced solution\\demo\\ex02\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF47A3C-1ABA-47BF-8E1C-FE2C6A5B3419}|Demo\\Demo.csproj|solutionrelative:demo\\ex02\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF47A3C-1ABA-47BF-8E1C-FE2C6A5B3419}|Demo\\Demo.csproj|d:\\technology\\backend\\4-c# advanced\\assignments route solutions\\assignment04advanced solution\\demo\\ex02\\channel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF47A3C-1ABA-47BF-8E1C-FE2C6A5B3419}|Demo\\Demo.csproj|solutionrelative:demo\\ex02\\channel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Subscriber.cs",
+              "DocumentMoniker": "D:\\Technology\\Backend\\4-C# Advanced\\Assignments Route Solutions\\Assignment04Advanced Solution\\Demo\\Ex02\\Subscriber.cs",
+              "RelativeDocumentMoniker": "Demo\\Ex02\\Subscriber.cs",
+              "ToolTip": "D:\\Technology\\Backend\\4-C# Advanced\\Assignments Route Solutions\\Assignment04Advanced Solution\\Demo\\Ex02\\Subscriber.cs",
+              "RelativeToolTip": "Demo\\Ex02\\Subscriber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T02:22:04.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Video.cs",
+              "DocumentMoniker": "D:\\Technology\\Backend\\4-C# Advanced\\Assignments Route Solutions\\Assignment04Advanced Solution\\Demo\\Ex02\\Video.cs",
+              "RelativeDocumentMoniker": "Demo\\Ex02\\Video.cs",
+              "ToolTip": "D:\\Technology\\Backend\\4-C# Advanced\\Assignments Route Solutions\\Assignment04Advanced Solution\\Demo\\Ex02\\Video.cs",
+              "RelativeToolTip": "Demo\\Ex02\\Video.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBoAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T02:10:54.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Channel.cs",
+              "DocumentMoniker": "D:\\Technology\\Backend\\4-C# Advanced\\Assignments Route Solutions\\Assignment04Advanced Solution\\Demo\\Ex02\\Channel.cs",
+              "RelativeDocumentMoniker": "Demo\\Ex02\\Channel.cs",
+              "ToolTip": "D:\\Technology\\Backend\\4-C# Advanced\\Assignments Route Solutions\\Assignment04Advanced Solution\\Demo\\Ex02\\Channel.cs",
+              "RelativeToolTip": "Demo\\Ex02\\Channel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T02:10:09.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Technology\\Backend\\4-C# Advanced\\Assignments Route Solutions\\Assignment04Advanced Solution\\Demo\\Ex01\\Program.cs",
+              "RelativeDocumentMoniker": "Demo\\Ex01\\Program.cs",
+              "ToolTip": "D:\\Technology\\Backend\\4-C# Advanced\\Assignments Route Solutions\\Assignment04Advanced Solution\\Demo\\Ex01\\Program.cs",
+              "RelativeToolTip": "Demo\\Ex01\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T23:08:31.702Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
