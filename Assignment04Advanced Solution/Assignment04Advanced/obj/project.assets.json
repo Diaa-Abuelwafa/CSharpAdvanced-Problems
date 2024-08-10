@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Technologies\\Backend\\4-C# Advanced\\Assignments Route Solutions\\Assignment04Advanced Solution\\Demo\\Demo.csproj",
-      "projectName": "Demo",
-      "projectPath": "D:\\Technologies\\Backend\\4-C# Advanced\\Assignments Route Solutions\\Assignment04Advanced Solution\\Demo\\Demo.csproj",
+      "projectUniqueName": "D:\\Technologies\\Backend\\4-C# Advanced\\Assignments Route Solutions\\Assignment04Advanced Solution\\Assignment04Advanced\\Assignment04Advanced.csproj",
+      "projectName": "Assignment04Advanced",
+      "projectPath": "D:\\Technologies\\Backend\\4-C# Advanced\\Assignments Route Solutions\\Assignment04Advanced Solution\\Assignment04Advanced\\Assignment04Advanced.csproj",
       "packagesPath": "C:\\Users\\metro\\.nuget\\packages\\",
-      "outputPath": "D:\\Technologies\\Backend\\4-C# Advanced\\Assignments Route Solutions\\Assignment04Advanced Solution\\Demo\\obj\\",
+      "outputPath": "D:\\Technologies\\Backend\\4-C# Advanced\\Assignments Route Solutions\\Assignment04Advanced Solution\\Assignment04Advanced\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\metro\\AppData\\Roaming\\NuGet\\NuGet.Config",
