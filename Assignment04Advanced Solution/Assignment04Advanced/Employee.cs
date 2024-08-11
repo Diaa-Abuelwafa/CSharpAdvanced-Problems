@@ -19,12 +19,13 @@ namespace Assignment04Advanced
         public DateTime BirthDate { get; set; }
         public int VacationStock { get; set; }
 
+        public Employee(int id)
+        {
+            this.EmployeeID = id;
+        }
         public int checkAge()
         {
-            DateTime Now = DateTime.Now;
-            int Diff = Now.Year - BirthDate.Year;
-
-            return Diff;
+            return 2024 - BirthDate.Year;
         }
 
         public bool RequestVacation(DateTime From, DateTime To)

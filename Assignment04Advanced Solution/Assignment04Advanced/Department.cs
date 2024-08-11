@@ -12,11 +12,6 @@ namespace Assignment04Advanced
         public string DeptName { get; set; }
         List<Employee> Staff;
 
-        public Department(int id, string name)
-        {
-            this.DeptID = id;
-            this.DeptName = name;
-        }
         public void AddStaff(Employee E)
         {
             if(E.checkAge() < 60)
